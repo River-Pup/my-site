@@ -40,7 +40,7 @@ function headerHTML() {
 	            <li><a href="index.html">home</a></li>
 	            <li><a href="uses.html">uses</a></li>
 	            <li><a href="https://riverpup.atabook.org/" target="_blank">guestbook</a></li>
-	     	    <li><a href="https://cake.avris.it/pC4" target="_blank">sexuality cake (pC4)</a></li>
+	     	    <li><a href="https://cake.avris.it/pC5" target="_blank">sexuality cake (pC5)</a></li>
 	          </ul>
 	        </>
 		</div>
@@ -54,7 +54,7 @@ function headerHTML() {
             <li><a href="index.html">home</a></li>
             <li><a href="uses.html">uses</a></li>
             <li><a href="https://riverpup.atabook.org/" target="_blank">guestbook</a></li>
-	    <li><a href="https://cake.avris.it/pC4" target="_blank">sexuality cake (pC4)</a></li>
+	    <li><a href="https://cake.avris.it/pC5" target="_blank">sexuality cake (pC5)</a></li>
           </ul>
         </nav>
         </div>
