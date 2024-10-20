@@ -41,6 +41,7 @@ function headerHTML() {
 	            <li><a href="uses.html">uses</a></li>
 	            <li><a href="https://riverpup.atabook.org/" target="_blank">guestbook</a></li>
 	     	    <li><a href="https://cake.avris.it/pC5" target="_blank">sexuality cake (pC5)</a></li>
+	   	    <li><a href="https://github.com/River-Pup/my-site" target="_blank">source code</a></li>
 	          </ul>
 	        </>
 		</div>
